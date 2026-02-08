@@ -1,13 +1,15 @@
-Patch Management Policy (Revised)
+
+**Patch Management Policy (Revised)**
+
+*Purpose:* This comprehensive patch management policy ensures timely and secure application of updates across all organizational systems, thus maintaining operability while safeguarding against potential vulnerabilities as per NIST Cybersecurity Framework guidance. 
 
 
-**Introduction: Purpose & Scope**
-The purpose of this Patch Management Policy is to establish guidelines and procedures that ensure the timely application, testing, verification, documentation, reporting, auditing, configuration management, integrity checking, rollback capability in case an update causes issues (incident response), adherence to security controls (access control) within organizational systems.
+*Scope:* All levels within the organization are subject to this policy which applies rigorously from executive level decisions down through every employee's end-point device and network access point, including third-party service providers that interact with our systems on a regular basis.
 
-**Roles and Responsibilities: Patch Management Team & All Employees**
-The IT team will be responsible for installing updates on a monthly basis, with the assistance of all employees who are required to maintain awareness about software changes affecting their work environment or system configurations they utilize. Staff members must report any anomalies encountered post-update immediately to IT department. 
 
-**Access Control: Authorized Access and User Permissions Management**
-Only authorized personnel will have the ability to install updates on organizational systems, ensuring that all changes maintain integrity control within our network perimeter (access control). A comprehensive permission audit shall be conducted bi-annually by an independent security firm. 
+**Roles and Responsibilities:** 
+The IT team is tasked to perform the initial patching of organizational hardware monthly or more frequently as required by criticality levels identified through risk assessments, ensuring minimal impact disruption during maintenance windows agreed upon in consultation with business stakeholders.
 
-**In
+
+*Access Control:*
+- Roles and permissions for accessing update mechanisms are strictly limited to authorized IT personnel after undergoing rigorous security training aligned with NIST standards on confidentiality, integrity, and availability of information systems (A). 
